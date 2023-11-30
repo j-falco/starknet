@@ -15,4 +15,3 @@ mod HelloStarknet {
     }
 
 }
-12345678910
